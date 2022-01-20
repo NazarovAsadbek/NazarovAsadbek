@@ -8,4 +8,4 @@ Skills: JS  / VUE JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='instagram' height='40'>https://t.me/Nazarov_Asadbek1
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='instagram' height='40' style='color: "white"; background: "red";'>https://t.me/Nazarov_Asadbek1
