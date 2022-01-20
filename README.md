@@ -11,6 +11,9 @@ I'm Asadbek from Uzbekistan, and I do content on Design and Development. I reall
 
 *✈ VUE.JS
 
+## My beliefs
+People really believe that effort is a myth... I think we've been drugged by the glamor of the lucky ones who are in the best position. But... The paradox of effort is that although luck is more attractive than effort, it cannot be chosen. Efforts, on the contrary, are available always, at any time and to everyone. This is an undeniable truth. Don't believe? Believe! This is true.
+
 <!-- ## Examples of work -->
 
 
