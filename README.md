@@ -8,7 +8,7 @@ I'm Asadbek from Uzbekistan, and I do content on Design and Development. I reall
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
-* ✈ VUE.JS(NUXT.JS)
+* ✈ VUE.JS(NUXT.JS), ANGULAR.JS
 * 🕸 WEBPACK, GULP
 
 ## My beliefs
