@@ -49,35 +49,35 @@
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-HTML-00bfbf?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-00bfbf?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-00bfbf?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-00bfbf?style=for-the-badge&logo=vue-dot-js&labelColor=1f004e)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=1f004e)&nbsp;
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00bfbf?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
-![Git](https://img.shields.io/badge/-Git-00bfbf?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-00bfbf?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-00bfbf?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00bfbf?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-00bfbf?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-00bfbf?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
 
 ### Other Knowledge:
 
-![typescript](https://img.shields.io/badge/-typescript-00bfbf?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-00bfbf?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-00bfbf?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-00bfbf?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
 ### Studying in this moment:
 
-![Angular](https://img.shields.io/badge/-angular-00bfbf?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
 
 ### Areas of Interest:
-![React.js](https://img.shields.io/badge/-React.js-00bfbf?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![React Native](https://img.shields.io/badge/-React_native-00bfbf?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
 
 
 <div align="center">
@@ -85,7 +85,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NazarovAsadbek}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
 
 <!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="NazarovAsadbek github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
