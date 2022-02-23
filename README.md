@@ -7,6 +7,10 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NazarovAsadbek}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nazarov Asadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
