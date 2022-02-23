@@ -47,6 +47,38 @@
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </div> -->
 
+### Main skills:
+
+![HTML](https://img.shields.io/badge/-HTML-00bfbf?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-00bfbf?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-00bfbf?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-00bfbf?style=for-the-badge&logo=vue-dot-js&labelColor=1f004e)&nbsp;
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00bfbf?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
+![Git](https://img.shields.io/badge/-Git-00bfbf?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-00bfbf?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-00bfbf?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-00bfbf?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-00bfbf?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-00bfbf?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
+
+### Other Knowledge:
+
+![typescript](https://img.shields.io/badge/-typescript-00bfbf?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-00bfbf?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-00bfbf?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-00bfbf?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
+
+### Studying in this moment:
+
+![Angular](https://img.shields.io/badge/-angular-00bfbf?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
+
+### Areas of Interest:
+![React.js](https://img.shields.io/badge/-React.js-00bfbf?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![React Native](https://img.shields.io/badge/-React_native-00bfbf?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
