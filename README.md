@@ -1,6 +1,6 @@
 <!--  # Nazarov Asadbek 
 - 👋 Hi, I’m Nazarov Asadbek
-- 👀 I’m interested in JS, CSS/SASS and HTML
+- 👀 I’m interested in JS, CSS/SASS and HTML 
 - 🌱 I’m currently learning SASS
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me nazarov_asadbek_official@mail.ru -->
