@@ -91,7 +91,7 @@
 <!-- |       <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="NazarovAsadbek github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
 
-<!--    ![Stats](https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+<!--     ![Stats](https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
 <!---
 NazarovAsadbek/NazarovAsadbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
