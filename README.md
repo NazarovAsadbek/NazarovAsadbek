@@ -1,4 +1,4 @@
-<!--  # Nazarov Asadbek  
+<!--   # Nazarov Asadbek  
 - 👋 Hi, I’m Nazarov Asadbek 
 - 👀 I’m interested in JS, CSS/SASS and HTML 
 - 🌱 I’m currently learning SASS 
