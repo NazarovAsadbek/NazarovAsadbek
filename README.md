@@ -16,10 +16,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NazarovAsadbek&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
-<!-- <div align="center"> -->
+<div align="center">
 <!--    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" /> -->
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
-<!-- </div>  -->
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true)
+</div> 
  
 <!-- ./STAT -->
 <div align="center">  
