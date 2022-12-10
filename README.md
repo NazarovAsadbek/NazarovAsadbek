@@ -18,7 +18,7 @@
  
 <div align="center">
 <!--    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" /> -->
-   <img width="90%" src="[https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.cyclic.app/graph?username=NazarovAsadbek&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)" />
+   <img width="90%" src="https://github-readme-activity-graph.cyclick.app/graph?username=NazarovAsadbek&bg_color==fffff0&color=708090" />
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true)
 </div> 
  
