@@ -11,12 +11,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=NazarovAsadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+NazarovAsadbek;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
- 
- 
-<div align="center">
-<!--    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" /> -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
+   ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true)
 </div> 
  
 <!-- ./STAT -->
