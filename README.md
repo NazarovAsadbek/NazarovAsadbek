@@ -16,7 +16,7 @@
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
-   ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true)
+<!--    ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
 </div> 
  
 <!-- ./STAT -->
