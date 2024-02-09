@@ -10,7 +10,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=NazarovAsadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+NazarovAsadbek;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+NazarovAsadbek;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
